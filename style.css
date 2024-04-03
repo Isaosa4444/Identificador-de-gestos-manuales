@@ -1,0 +1,22 @@
+
+body{
+    color: rgb(0, 0, 0);
+    background: linear-gradient( rgb(240, 255, 171) 0%, rgb(176, 209, 240) 40%, rgb(238, 241, 204) 80%, rgb(180, 241, 180) 100%)
+    
+}
+
+.heading{
+    width: 80%;
+    font-size: 22;
+
+}
+
+.name_of_objects{
+    color: black;
+}
+
+#camera,#result{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px; 
+}
