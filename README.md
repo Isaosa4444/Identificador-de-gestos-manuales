@@ -1,0 +1,1 @@
+# Identificador-de-gestos-manuales
